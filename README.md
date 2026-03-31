@@ -4,9 +4,6 @@
   <b>BTech CSE · KIIT Bhubaneswar · Problem Solver · Builder</b>
 </p>
 
-<p align="center">
-  <img src="https://github.com/prashantraj1X1/prashantraj1X1/raw/main/new%20picture%20coding.png" width="600" alt="Coding"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prashantraj1X1&label=Profile+Views&color=0e75b6&style=flat" />
