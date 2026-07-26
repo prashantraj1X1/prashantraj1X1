@@ -55,21 +55,19 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantraj1X1&theme=tokyonight" width="100%"/>
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prashantraj1X1&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantraj1X1&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantraj1X1&theme=tokyonight" height="150"/>
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantraj1X1&theme=tokyonight" height="150"/>
+  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantraj1X1&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashantraj1X1&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=prashantraj1X1&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
-
----
 
 <p align="center">Let's build something amazing together! 😊</p>
