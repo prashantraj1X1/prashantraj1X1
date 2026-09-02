@@ -133,12 +133,6 @@ Data analysis and financial modeling from JP Morgan's virtual experience program
 
 ---
 
-## 🎯 What I'm Looking For
-
-- **Roles:** Software Development Engineer, Full-Stack Developer, QA/Testing, Business Analysis, Product Management
-- **Markets:** Indian job market · Ready to join immediately
-- **Platforms:** Naukri, Wellfound, Cutshort, Internshala
-- **Growth:** Mentorship, challenging projects, and opportunities to solve real-world problems
 
 ---
 
