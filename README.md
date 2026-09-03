@@ -140,7 +140,7 @@ Data analysis and financial modeling from JP Morgan's virtual experience program
 
 - **GitHub:** [@prashantraj1X1](https://github.com/prashantraj1X1)
 - **Linktree:** [linktr.ee/prashantraj_X1X](https://linktr.ee/prashantraj_X1X)
-- **Location:** Rourkela, Odisha, India
+
 
 ---
 
