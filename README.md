@@ -127,7 +127,7 @@ Data analysis and financial modeling from JP Morgan's virtual experience program
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=prashantraj1X1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=prashantraj1X1&theme=tokyonight&hide_border=true&cacheBust=1)
 </div>
 
 ---
