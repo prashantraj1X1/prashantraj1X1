@@ -14,6 +14,8 @@
   <a href="https://github.com/prashantraj1X1" target="_blank">
     <img src="https://img.shields.io/github/followers/prashantraj1X1?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
   </a>
+   <img src="https://komarev.com/ghpvc/?username=prashantraj1X1&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  
   
 </div>
 
@@ -121,8 +123,26 @@ Data analysis and financial modeling from JP Morgan's virtual experience program
 <div align="center">
   
   ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashantraj1X1&theme=tokyonight)
-  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashantraj1X1&theme=tokyonight)
-  
+ <p align="center">
+  <b>Languages & Web Development</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,html,css" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Machine Learning & Data Science</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,jupyter" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Tools & Project Management</b><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,notion,figma" />
+  </a>
+</p>
 </div>
 
 <div align="center">
